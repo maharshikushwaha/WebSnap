@@ -14,7 +14,7 @@ WebSnap is a Python script for capturing screenshots of webpages.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/WebSnap.git
+    git clone https://github.com/maharshikushwaha/WebSnap.git
     cd WebSnap
     ```
 
@@ -27,7 +27,7 @@ WebSnap is a Python script for capturing screenshots of webpages.
 3. **Run the script:**
 
     ```bash
-    python screenshot_generator.py --url https://example.com --output screenshot.png --width 1200 --height 800
+    python app.py --url https://example.com --output screenshot.png --width 1200 --height 800
     ```
 
 4. **View the generated screenshot in the current directory.**
